@@ -400,3 +400,13 @@ ul{
       height: 150px
     }
 /* sa taas ani kay hobby nga code*/
+.music{
+            border-style:inherit;
+    border-radius: 100px;
+    border: 5px  solid;
+    background-color: rgb(254, 246, 244);
+    border-color: rgb(255, 173, 173);
+    margin: 30px auto;
+    width: 800px;
+    height: 510px;
+}
